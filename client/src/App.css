@@ -1,0 +1,16 @@
+.App {    
+    max-width: 1152px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-container {
+    display: flex;
+}
+
+.stats-container {
+    width: 100%;
+    height: calc(100vh - 87.5px);
+    padding-left: 10px;
+    border-left: 2px solid #C4C4C4;
+}
